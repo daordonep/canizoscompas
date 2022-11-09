@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="90453dae-69ff-45a9-a47c-2c5b5d532dff" />
+    <option name="reLastEntityCreationPackage" value="microservice/src/main/java/com/dharian/microservice" />
+  </component>
+</project>
